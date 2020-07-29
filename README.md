@@ -3,4 +3,4 @@ Your hello-world repository can be a place where you store ideas, resources, or 
 
 My name s Noah Ajekwemu,
 I'm new to github,
-II just came here to say hello to you all
+I just came here to say hello to you all
